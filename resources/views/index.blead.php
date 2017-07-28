@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title></title>
+	<title>Halaman Index</title>
 </head>
 <body>
-		ini halaman baru saya!
+		Ini Halaman Index
 </body>
 </html>
